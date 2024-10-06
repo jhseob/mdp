@@ -1,0 +1,49 @@
+<name> ROSVersion </> <type> str </> <value> EdgeRunner.6 </> <comment> ROSVersion </>
+<name> ROSBootChimeEnabled </> <type> bool </> <value> True </> <comment> ROSBootChimeEnabledNoticeROS boot chime is enabled or not </>
+<name> ROSSplashScreenTime </> <type> float </> <value> 6.0 </> <comment> ROSSplashScreenTimeNoticeROS splash screen time </>
+<name> ROSIsOn </> <type> bool </> <value> False </> <comment> ROSIsOnNoticeROS is shutdown properly </>
+<name> BootDebugLogOn </> <type> bool </> <value> False </> <comment> BootDebugLogOnNoticeBoot debug log is on or off </>
+<name> RKeySetDebugLogOn </> <type> bool </> <value> False </> <comment> RKeySetDebugLogOnNoticeRKeySet debug log is on or off </>
+<name> RKeySaveDebugLogOn </> <type> bool </> <value> False </> <comment> RKeySaveDebugLogOnNoticeRKeySave debug log is on or off </>
+<name> CameraDevice </> <type> str </> <value> macbook pro </> <comment> CameraDeviceName </>
+<name> ROSRunningDevice </> <type> str </> <value> macbook pro </> <comment> ROSRunningDeviceNoticeROS running device </>
+<name> ROSModelActive </> <type> bool </> <value> True </> <comment> ROSModelActiveNoticeROS model is active or not </>
+<name> ROSMindDisplayWay </> <type> str </> <value> filled box </> <comment> ROSMindDisplayWayNoticeROS mind display way </>
+<name> ROSDisplayFPSEnable </> <type> bool </> <value> True </> <comment> ROSDisplayFPSEnableNoticeROS display FPS is enable or not </>
+<name> ROSDisplayFPSColorRed </> <type> int </> <value> 138 </> <comment> ROSDisplayFPSColorRedNoticeROS display FPS color red </>
+<name> ROSDisplayFPSColorGreen </> <type> int </> <value> 43 </> <comment> ROSDisplayFPSColorGreenNoticeROS display FPS color green </>
+<name> ROSDisplayFPSColorBlue </> <type> int </> <value> 226 </> <comment> ROSDisplayFPSColorBlueNoticeROS display FPS color blue </>
+<name> SLDDeviceIP </> <type> str </> <value> 0.0.0.0 </> <comment> SLDDeviceIPNoticeSLD device IP </>
+<name> SLDDevicePort </> <type> int </> <value> 5001 </> <comment> SLDDevicePortNoticeSLD device port </>
+<name> SLDConnectTimeout </> <type> int </> <value> 5 </> <comment> SLDConnectTimeoutNoticeSLD connect timeout </>
+<name> ROSObjectDistanceCalculateConstantDefault </> <type> float </> <value> 500.0 </> <comment> ROSObjectDistanceCalculateConstantNoticeROS object distance calculate constant </>
+<name> DistanceUnit </> <type> str </> <value> SI </> <comment> DistanceUnitNoticeDistance unit </>
+<name> DistanceDisplayEnabled </> <type> bool </> <value> True </> <comment> DistanceDisplayEnabledNoticeDistance display is enabled or not </>
+<name> DistanceDisplayWay </> <type> str </> <value> invertedColorInBox </> <comment> DistanceDisplayWayNoticeDistance display way </>
+<name> ROSARDisplayEnabled </> <type> bool </> <value> False </> <comment> ROSARDisplayEnabledNoticeROS AR display is enabled or not </>
+<name> AREyeDistance </> <type> float </> <value> 0.068 </> <comment> AREyeDistanceNoticeAR eye distance in meter </>
+<name> AREyeLevelAdjust </> <type> float </> <value> 0.018 </> <comment> AREyeLevelAdjustNoticeAR eye level adjust in meter </>
+<name> ARDisplayPPI </> <type> int </> <value> 131 </> <comment> ARDisplayPPINoticeAR display PPI </>
+<name> ARDisplayWidth </> <type> int </> <value> 800 </> <comment> ARDisplayWidthNoticeAR display width </>
+<name> ARDisplayHeight </> <type> int </> <value> 480 </> <comment> ARDisplayHeightNoticeAR display height </>
+<name> ARPreferredEye </> <type> str </> <value> right </> <comment> ARPreferredEyeNoticeAR preferred eye </>
+<name> ARMode </> <type> str </> <value> one eye </> <comment> ARModeFor auto or Both Eye </>
+<name> ROSObjectDistanceCalculateConstantRaspberryPi </> <type> float </> <value> 500.0 </> <comment> ROSObjectDistanceCalculateConstantRaspberryPiNoticeROS object distance calculate constant for Raspberry Pi </>
+<name> ROSObjectDistanceCalculateConstantMacBookPro </> <type> float </> <value> 500.0 </> <comment> ROSObjectDistanceCalculateConstantMacBookProNoticeROS object distance calculate constant for MacBook Pro </>
+<name> ROSObjectDistanceCalculateConstantIphone </> <type> float </> <value> 500.0 </> <comment> ROSObjectDistanceCalculateConstantIphoneNoticeROS object distance calculate constant for iPhone </>
+<name> ROSObjectDistanceCalculateSideErrorMarginByVision </> <type> int </> <value> 5 </> <comment> ROSObjectDistanceCalculateSideErrorMarginByVisionNoticeROS object distance calculate side error margin by vision </>
+<name> ROSObjectDistanceCalculateXAxisOutOfBoundCheckEnabled </> <type> bool </> <value> True </> <comment> ROSObjectDistanceCalculateXAxisOutOfBoundCheckEnabledNoticeROS object distance calculate X axis out of bound check is enabled or not </>
+<name> ROSObjectDistanceCalculateYAxisOutOfBoundCheckEnabled </> <type> bool </> <value> False </> <comment> ROSObjectDistanceCalculateYAxisOutOfBoundCheckEnabledNoticeROS object distance calculate Y axis out of bound check is enabled or not </>
+<name> SoundVolume </> <type> float </> <value> 0.3 </> <comment> SoundVolumeNoticeSound volume </>
+<name> Notification Display Overlap </> <type> bool </> <value> True </> <comment> Notification Display OverlapNoticeNotification display overlap </>
+<name> Notification TTS Enabled </> <type> bool </> <value> True </> <comment> Notification TTS EnabledNoticeNotification TTS is enabled or not </>
+<name> ROSOffKey </> <type> int </> <value> 27 </> <comment> ROS Shutdown Key </>
+<name> USSRegionStartX </> <type> int </> <value> 140 </> <comment> USSRegionStartXNoticeUSS region start X </>
+<name> USSRegionEndX </> <type> int </> <value> 180 </> <comment> USSRegionEndXNoticeUSS region end X </>
+<name> USSRegionStartY </> <type> int </> <value> 140 </> <comment> USSRegionStartYNoticeUSS region start Y </>
+<name> USSRegionEndY </> <type> int </> <value> 180 </> <comment> USSRegionEndYNoticeUSS region end Y </>
+<name> USSRegionDisplayEnabled </> <type> bool </> <value> True </> <comment> USSRegionDisplayEnabledNoticeUSS region display is enabled or not </>
+<name> USSRegionDisplayColorRed </> <type> int </> <value> 208 </> <comment> USSRegionDisplayColorRedNoticeUSS region display color red </>
+<name> USSRegionDisplayColorGreen </> <type> int </> <value> 252 </> <comment> USSRegionDisplayColorGreenNoticeUSS region display color green </>
+<name> USSRegionDisplayColorBlue </> <type> int </> <value> 92 </> <comment> USSRegionDisplayColorBlueNoticeUSS region display color blue </>
+<name> RaspberryPiCameraEye </> <type> str </> <value> none </> <comment> RaspberryPiCameraEyeNoticeRaspberry Pi camera eye </>
